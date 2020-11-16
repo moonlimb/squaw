@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+django = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+gunicorn = "*"
+
+[dev-packages]
+flake8 = "*"
+pytest = "*"
+pylint = "*"
+pep8 = "*"
+pylint-django = "*"
