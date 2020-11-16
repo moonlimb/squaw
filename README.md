@@ -1,2 +1,2 @@
 # squaw
-Repository for practice tutorials
+Repository to practice & brush up on Django, Celery, etc.
